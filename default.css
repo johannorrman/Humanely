@@ -275,27 +275,27 @@ ul.contact li a:before
 
 ul.contact li a.icon-twitter:before
 {
-	background: #2DAAE4;
+	background: #72CEDF;
 }
 
 ul.contact li a.icon-facebook:before
 {
-	background: #39599F;
+	background: #72CEDF;
 }
 
 ul.contact li a.icon-dribbble:before
 {
-	background: #C4376B;
+	background: #72CEDF;
 }
 
 ul.contact li a.icon-tumblr:before
 {
-	background: #31516A;
+	background: #72CEDF;
 }
 
 ul.contact li a.icon-rss:before
 {
-	background: #F2600B;
+	background: #72CEDF;
 }
 
 /*********************************************************************************/
@@ -306,7 +306,7 @@ ul.contact li a.icon-rss:before
 {
 	display: inline-block;
 	padding: 1.3em 3em;
-	background: #00C56C;
+	background: #72CEDF;
 	-moz-transition: opacity 0.25s ease-in-out;
 	-webkit-transition: opacity 0.25s ease-in-out;
 	-o-transition: opacity 0.25s ease-in-out;
@@ -322,7 +322,7 @@ ul.contact li a.icon-rss:before
 {
 	display: inline-block;
 	padding: 1.3em 3em;
-	background: #00C56C;
+	background: #72CEDF;
 	-moz-transition: opacity 0.25s ease-in-out;
 	-webkit-transition: opacity 0.25s ease-in-out;
 	-o-transition: opacity 0.25s ease-in-out;
@@ -383,7 +383,7 @@ ul.contact li a.icon-rss:before
 	{
 		overflow: hidden;
 		padding: 5em 0em 0em 0em;
-		background: #2EFFC8 url(images/overlay.png) repeat;
+		background: #72CEDF url(images/overlay.png) repeat;
 	}
 
 	#header
@@ -976,7 +976,7 @@ ul.contact li a.icon-rss:before
 	width: 120px;
 	height: 80px;
 	line-height: 80px;
-	background: #2EFFC8;
+	background: #72CEDF;
 	position: relative;
 	text-align: center;
 	color: #FFF;
@@ -991,7 +991,7 @@ ul.contact li a.icon-rss:before
 	height: 0;
 	border-left: 60px solid transparent;
 	border-right: 60px solid transparent;
-	border-bottom: 30px solid #2EFFC8;
+	border-bottom: 30px solid #72CEDF;
 }
 .hexagon:after {
 	content: "";
@@ -1002,7 +1002,7 @@ ul.contact li a.icon-rss:before
 	height: 0;
 	border-left: 60px solid transparent;
 	border-right: 60px solid transparent;
-	border-top: 30px solid #2EFFC8;
+	border-top: 30px solid #72CEDF;
 }
 
 #portfolio
